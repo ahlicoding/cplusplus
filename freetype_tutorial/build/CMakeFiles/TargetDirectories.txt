@@ -1,0 +1,3 @@
+/home/rian-mst/dev/cplusplus/freetype_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/rian-mst/dev/cplusplus/freetype_tutorial/build/CMakeFiles/freetype_tutorial.dir
+/home/rian-mst/dev/cplusplus/freetype_tutorial/build/CMakeFiles/edit_cache.dir

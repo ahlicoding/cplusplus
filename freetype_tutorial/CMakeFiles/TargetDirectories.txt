@@ -1,3 +1,0 @@
-/home/rian-mst/dev/tutorialcpp/freetype_tutorial/CMakeFiles/rebuild_cache.dir
-/home/rian-mst/dev/tutorialcpp/freetype_tutorial/CMakeFiles/freetype_tutorial.dir
-/home/rian-mst/dev/tutorialcpp/freetype_tutorial/CMakeFiles/edit_cache.dir

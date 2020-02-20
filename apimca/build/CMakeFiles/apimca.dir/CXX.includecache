@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rian-mst/dev/cplusplus/apimca/main.cpp
+iostream
+-
+cpprest/http_client.h
+-
+cpprest/filestream.h
+-
+cpprest/uri.h
+-
+cpprest/json.h
+-
+

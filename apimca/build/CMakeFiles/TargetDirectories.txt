@@ -1,0 +1,3 @@
+/home/rian-mst/dev/cplusplus/apimca/build/CMakeFiles/rebuild_cache.dir
+/home/rian-mst/dev/cplusplus/apimca/build/CMakeFiles/apimca.dir
+/home/rian-mst/dev/cplusplus/apimca/build/CMakeFiles/edit_cache.dir
